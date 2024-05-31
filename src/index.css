@@ -127,14 +127,16 @@ main {
   border: 1px solid var(--clr-black);
   width: 85%;
   max-width: 25em;
-  /* -webkit-box-shadow: 15px 15px 0px 0px var(--clr-black);
-  -moz-box-shadow: 15px 15px 0px 0px var(--clr-black); */
+  -webkit-box-shadow: 8px 8px 0px 0px var(--clr-black);
+  -moz-box-shadow: 8px 8px 0px 0px var(--clr-black);
   box-shadow: 8px 8px 0px 0px var(--clr-black);
+  transition: 0.3s ease-in-out;
 }
 
 .card:hover {
   transform: translate(-8px, -8px);
-  transition-duration: 200ms;
+  -webkit-box-shadow: 15px 15px 0px 0px var(--clr-black);
+  -moz-box-shadow: 15px 15px 0px 0px var(--clr-black);
   box-shadow: 15px 15px 0px 0px var(--clr-black);
 }
 
