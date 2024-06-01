@@ -25,7 +25,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/AmanoLX/fem-blog-preview-card
-- Live Site URL: https://dashing-fox-237b29.netlify.app/
+- Live Site URL: https://fem-blog-preview-card-by-mr.netlify.app/
 
 ## My process
 
@@ -47,4 +47,4 @@ Up to the next challenge from the Frontend Mentor learning path.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@AmanoLX](https://www.frontendmentor.io/profile/AmanoLX)
